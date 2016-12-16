@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TweetSearch</string>
+    <string name="content_desc_image">content description Image</string>
+    <string name="errorService">Error trying to get Tweets from server</string>
+    <string name="errorOauth">Error getting Twitter Credentials Token</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Put a word to search on twitter</string>
+    <string name="completeSearchField">You must to complete search field to search.</string>
+    <string name="text_search_tweet">Write a word to search on twitter on search bar.</string>
+</resources>
